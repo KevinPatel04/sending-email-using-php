@@ -12,4 +12,4 @@
 ## That it you are all set to Send Email Using PHPMailer automatically through your Gmail account.
 
 ## Thank You
-<a href="/KevinPatel04">KevinPatel04</a>
+<a href="https://github.com/KevinPatel04">KevinPatel04</a>
